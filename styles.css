@@ -1,0 +1,209 @@
+body 
+	{
+		background-color: white;
+		padding: 20px 25px;
+		position: relative;
+		font-family: "Arial";
+		font-size: 14px;
+		overflow: hidden;
+	}
+a:link 
+	{
+	  text-decoration: none;
+	}
+a:hover 
+	{
+	  color: gray;
+	  text-decoration: underline;
+	}
+a:visited 
+	{
+	  color: gray;
+	  text-decoration: none;
+	}
+#i1, #i2
+	{
+		position: absolute;
+		top: 150px;
+		left: 480px;
+	}
+#i3
+	{
+		position: absolute;
+		top: 20px;
+		left: 20px;
+	}
+#a1
+	{
+		position: absolute;
+		top: 15px;
+		left: 1045px;
+	}
+#a2
+	{
+		position: absolute;
+		top: 15px;
+		left: 1120px;
+	}
+#a3, #a4, #a5, #a6
+{
+	color: gray;
+}
+.formtxt
+	{
+		margin: 250px 320px;
+		width: 500px;
+		height: 18px;
+		padding: 12px 45px;
+		border-radius: 20px;
+		border: 1px solid #e5e5e5;
+		background-image: url('https://w7.pngwing.com/pngs/456/948/png-transparent-computer-icons-desktop-web-search-engine-wordpress-com-search-icon-search-logo-website-circle-wordpresscom-thumbnail.png');
+		background-position: 15px 15px;
+		background-size: 2.5%;
+		background-repeat: no-repeat;
+	}
+.formtxt2
+	{
+		position: absolute;
+		width: 40%;
+		height: 5px;
+		padding: 12px 45px;
+		border-radius: 2px;
+		border: 1px solid #e5e5e5;
+	}
+#inp1{
+	top: 200px;
+	left: 300px;
+}
+#inp2{
+	top: 250px;
+	left: 300px;
+}
+#inp3{
+	top: 300px;
+	left: 300px;
+}
+#inp4{
+	top: 350px;
+	left: 300px;
+}
+#text{
+	position: absolute;
+	top: 150px;
+	left: 60px;
+	font-size: 16px;
+}
+#labinp1{
+	position: absolute;
+	top: 200px;
+	left: 60px;
+}
+#labinp2{
+	position: absolute;
+	top: 250px;
+	left: 60px;
+}
+#labinp3{
+	position: absolute;
+	top: 300px;
+	left: 60px;
+}
+#labinp4{
+	position: absolute;
+	top: 350px;
+	left: 60px;
+}
+.formtxt:hover
+	{
+		width: 505px;
+		height: 23px;
+		border: 0.5px solid #e5e5e5;
+	}
+.formtxt2:focus
+	{
+		border: 0.2px solid;
+		outline-color: #4d90fe;
+	}
+.formsub
+	{
+		position: absolute;
+		top: 350px;
+		left: 490px;
+		width: 120px;
+		border: none;
+		border-radius: 3px;
+		color: gray;
+		padding: 10px 10px;s
+	}
+.formsub2
+	{
+		position: absolute;
+		top: 350px;
+		left: 650px;
+		width: 150px;
+		border: none;
+		border-radius: 3px;
+		color: gray;
+		padding: 10px 10px;
+	}
+.formsub:hover, .formsub2:hover
+	{
+		color: gray;
+		border: 1px solid #ccc;
+	}
+.formsub3
+	{
+		position: absolute;
+		top: 400px;
+		left: 750px;
+		width: 140px;
+		height: 35px;
+		border: #3333FF;
+		border-radius: 2px;
+		color: white;
+		background-color: #4d90fe;
+		font-weight: bold;
+		padding: 10px 10px 10px 10px;
+	}
+.formsub3:hover
+	{
+		color: white;
+		border: 1px solid #ccc;
+	}
+#heading
+	{
+		position: absolute;
+		top: 80px;
+		left: 60px;
+		color: #D80000;
+		font-size: 20px;
+	}
+.footer 
+{
+   position: fixed;
+   display: block;
+   left: 0;
+   bottom: 0;
+   padding: 10px 30px 10px 30px;
+   width: 100%;
+   height: 18px;
+   background-color: #efefef;
+   color: #666666;
+   font-size: 13px;
+   text-align: left;
+   vertical-align: middle;
+   border: 1px solid #e5e5e5 ;
+   
+}
+#footer2
+{
+	bottom: 35px;
+}
+#line{
+	display: block;
+	margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    border-bottom: 1px solid #ebebeb;
+}
