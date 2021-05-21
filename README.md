@@ -1,1 +1,2 @@
 # GSearch-Frontend
+Implementation of frontend of Google Search, Image Search and Advanced Search pages using HTML and CSS. The queries entered on these pages take the user to the corresponding Google search results pages. The 'I'm Feeling Lucky' button takes the user to the first Google search result for the query. The pages have been styled to have aesthetics similar to the actual Google search pages.
